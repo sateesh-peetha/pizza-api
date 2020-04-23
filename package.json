@@ -1,0 +1,19 @@
+{
+  "name": "pizza-api",
+  "version": "1.0.0",
+  "description": "Pizza API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sateesh-peetha/pizza-api.git"
+  },
+  "author": "Sateesh Peetha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sateesh-peetha/pizza-api/issues"
+  },
+  "homepage": "https://github.com/sateesh-peetha/pizza-api#readme"
+}
